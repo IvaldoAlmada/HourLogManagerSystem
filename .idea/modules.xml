@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GreenMilePresentation.iml" filepath="$PROJECT_DIR$/GreenMilePresentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/command-service/command-service.iml" filepath="$PROJECT_DIR$/command-service/command-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery-service/discovery-service.iml" filepath="$PROJECT_DIR$/discovery-service/discovery-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/query-service/query-service.iml" filepath="$PROJECT_DIR$/query-service/query-service.iml" />
+    </modules>
+  </component>
+</project>

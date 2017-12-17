@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.greenmile.presentation.command.service.config.axon.EventSourcingCollectionProperties",
+      "name": "external.event-sourcing",
+      "type": "com.greenmile.presentation.command.service.config.axon.EventSourcingCollectionProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.greenmile.presentation.command.service.config.axon.EventSourcingCollectionProperties",
+      "name": "external.event-sourcing.events-collection-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.greenmile.presentation.command.service.config.axon.EventSourcingCollectionProperties",
+      "name": "external.event-sourcing.snapshot-collection-name",
+      "type": "java.lang.String"
+    }
+  ]
+}
